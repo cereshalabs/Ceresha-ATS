@@ -1,0 +1,15 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Log files
+*.log
+
+# Docker override files
+docker-compose.override.yml
+
+# VS Code settings
+.vscode/
+
